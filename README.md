@@ -5,6 +5,10 @@ A venture capital investment analysis recommending a US$800 million investment i
 PayPay is Japan's leading QR-code payment platform, benefiting from strong network effects, a dominant domestic market share, and expansion into adjacent financial services. This report evaluates the investment case, valuation, and proposed deal structure for a minority growth 
 investment ahead of PayPay's planned IPO.
 
+## Data
+- **Period:** as of 2025
+- **Source:** PayPay's internal data (Form F-1) | FactSet
+
 ## Methods
 Valuation is triangulated across four approaches:
 - **Comparable Company Analysis** (EV/Revenue)
