@@ -13,7 +13,7 @@ Valuation is triangulated across four approaches:
 - **VC Method**
 
 ## Code
-The analysis is in 'VC-Excel-Modelling.xlsx', run in Excel.
+The analysis is in `VC-Excel-Modelling.xlsx`, run in Excel.
 
 ## Paper
 The full investment analysis is available in `Final Report.pdf`.
