@@ -19,3 +19,4 @@ The analysis is in 'VC-Excel-Modelling.xlsx', run in Excel.
 The full investment analysis is available in `Final Report.pdf`.
 
 ## My Contributions
+I was primarily responsible for Sections 3 (Financial Analysis, Projections, and Valuation) and Section 4 (Term Sheet).
